@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 🎓: Bachelor IT Engineering (University of Florence)
 - :book: : I'm currently studying Multimedia System (Master) 
 - 🎮: Gym, football and tennis
-- 
