@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :mortar_board: Bachelor IT Engineering (University of Florence)
-- :books: I'm currently studying Multimedia System (Master) 
-- :game_die: gym, football and tennis
+- 🎓: Bachelor IT Engineering (University of Florence)
+- 📚: I'm currently studying Multimedia System (Master) 
+- 🎮: Gym, football and tennis
