@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **villifCoder559/VillifCoder559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :mortar_board: Bachelor IT Engineering (University of Florence)
+- :game_die: gym, football and tennis
+- :books: I'm currently studying Multimedia System (Master) 
