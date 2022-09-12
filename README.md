@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :mortar_board: Bachelor IT Engineering (University of Florence)
-- :game_die: gym, football and tennis
 - :books: I'm currently studying Multimedia System (Master) 
+- :game_die: gym, football and tennis
