@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎓: Bachelor IT Engineering (University of Florence)
-- :book:: I'm currently studying Computer Vision (Master) 
+- 🎓: Master IT Engineering on Computer Vision (University of Florence)
 - 🎮: Gym, football and tennis
