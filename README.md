@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎓: Master IT Engineering on Computer Vision (University of Florence)
-- 🎮: Gym, football and tennis
+- 🎓 M.Sc. in Computer Engineering | University of Florence
+- 🔬 Visiting Research Scholar (2024) @ Carnegie Mellon University
+- 🧠 Computer Vision & Deep Learning
+- ⚽ Gym, football & tennis
